@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ross erskine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ross erskine" height="30" width="40" /></a>
-<a href="https://kaggle.com/rosco pikotrain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rosco pikotrain" height="30" width="40" /></a>
+<a href="https://kaggle.com/rosco pikotrain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roscopikotrain" height="30" width="40" /></a>
 <a href="https://instagram.com/roscopikotrain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roscopikotrain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rosco pikotrain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rosco pikotrain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ross erskine@roscopikotrain21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ross erskine@roscopikotrain21" height="30" width="40" /></a>
