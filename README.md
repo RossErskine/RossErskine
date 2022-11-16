@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ross Erskine</h1>
 <h3 align="center">Studying Machine learning in Science MSc. Physics and Astronomy at University of Nottingham</h3>
 
-- 🔭 I’m currently working on **data analysis and ML**
+- 🔭 I’m currently working on **CNN-Autoencoder outlier detection fro galaxy images from Sloane Digital Sky Survey (SDSS)**
 
-- 🌱 I’m currently learning **Statistical analysis**
+- 🌱 I’m currently learning **Reinforcment Learning- Module ML in Science**
 
-- 👯 I’m looking to collaborate on **Computer vision on matlab**
-
-- 🤝 I’m looking for help with **Data visualisation**
+- 👯 I’m looking to collaborate on **Any kaggle project**
 
 - 💬 Ask me about **Software development and ML**
 
