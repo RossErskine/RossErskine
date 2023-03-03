@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ross Erskine</h1>
 <h3 align="center">Studying Machine learning in Science MSc. Physics and Astronomy at University of Nottingham</h3>
 
-- 🔭 I’m currently working on **CNN-Autoencoder outlier detection fro galaxy images from Sloane Digital Sky Survey (SDSS)**
+- 🔭 I’m currently working on **Deep PiCar **
 
-- 🌱 I’m currently learning **Reinforcment Learning- Module ML in Science**
+- 🌱 I’m currently learning **ML in Science part 2- Module ML in Science**
 
 - 👯 I’m looking to collaborate on **Any kaggle project**
 
