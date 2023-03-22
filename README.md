@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ross Erskine</h1>
 <h3 align="center">Studying Machine learning in Science MSc. Physics and Astronomy at University of Nottingham</h3>
 
-- 🔭 I’m currently working on **Deep PiCar **
+- 🔭 I’m currently working on **Deep PiCar Autonomous vehicles**
 
 - 🌱 I’m currently learning **ML in Science part 2- Module ML in Science**
 
