@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Assembly of large scale objects in the Universe**
 
-- 🌱 I’m currently learning **ML in Science part 2- Module ML in Science**
+- 🌱 I’m currently learning **Merger tree in N-body simulations**
 
 - 👯 I’m looking to collaborate on **Any kaggle project**
 
